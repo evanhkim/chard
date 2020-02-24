@@ -1,0 +1,15 @@
+[18-Nov-2019 08:12:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'chard'@'localhost' (using password: YES) in /home/j01ozgrhka5w/public_html/chard/php/db.php on line 7
+[18-Nov-2019 08:12:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'chard'@'localhost' (using password: YES) in /home/j01ozgrhka5w/public_html/chard/php/db.php on line 7
+[18-Nov-2019 08:12:21 UTC] PHP Warning:  mysqli::escape_string(): Couldn't fetch mysqli in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 5
+[18-Nov-2019 08:12:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 8
+[18-Nov-2019 08:12:21 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 10
+[18-Nov-2019 08:12:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'chard'@'localhost' (using password: YES) in /home/j01ozgrhka5w/public_html/chard/php/db.php on line 7
+[18-Nov-2019 08:12:22 UTC] PHP Warning:  mysqli::escape_string(): Couldn't fetch mysqli in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 5
+[18-Nov-2019 08:12:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 8
+[18-Nov-2019 08:12:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/j01ozgrhka5w/public_html/chard/php/functLogin.php on line 10
+[18-Nov-2019 10:22:22 UTC] PHP Notice:  Undefined index: imageData in /home/j01ozgrhka5w/public_html/chard/php/functSubmit.php on line 5
+[18-Nov-2019 10:22:48 UTC] PHP Notice:  Undefined index: imageData in /home/j01ozgrhka5w/public_html/chard/php/functSubmit.php on line 5
+[18-Nov-2019 10:23:20 UTC] PHP Notice:  Undefined index: imageData in /home/j01ozgrhka5w/public_html/chard/php/functSubmit.php on line 5
+[18-Nov-2019 10:24:18 UTC] PHP Notice:  Undefined index: imageData in /home/j01ozgrhka5w/public_html/chard/php/functSubmit.php on line 5
+[11-Dec-2019 07:24:51 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ')' in /home/j01ozgrhka5w/public_html/chard/php/functSubmitHanzi.php on line 12
+[11-Dec-2019 07:24:53 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ')' in /home/j01ozgrhka5w/public_html/chard/php/functSubmitHanzi.php on line 12
