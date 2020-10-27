@@ -4,7 +4,6 @@
 ![DEMO VIDEO](https://github.com/s-kimeva/chard/blob/master/chard_demo_1.gif)
 
 Youtube video at (https://youtu.be/Bn6WeSJEF5g)
-Demo mov file at (https://github.com/s-kimeva/chard/blob/master/chard_demo.mov)
 
 ## description
 Chard - Chinese flashcard program - is a free Chinese study tool modeled after popular sites like Quizlet. 
